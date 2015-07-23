@@ -15,6 +15,7 @@ import java.io.Serializable;
 import java.io.StreamCorruptedException;
 import java.util.ArrayList;
 
+// My Name
 // Example of persistent storage
 public class CheckboxManager implements Serializable {
     public static final String SAVE_FILE_NAME = "saveFileName.ser";
